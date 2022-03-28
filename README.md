@@ -22,7 +22,7 @@ The resulting pivot table can be found in the Theater Outcomes by Launched Date 
 
 Afterwards a line chart was created to visualize the relationship between outcomes and launched month. The result is shown as follows: 
 
-![]()
+![](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 

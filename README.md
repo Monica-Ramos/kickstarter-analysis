@@ -17,7 +17,7 @@ Before creating the pivot table, an additional column “Years” was added to t
 
 The resulting pivot table can be found in the Theater Outcomes by Launched Date sheet and is also shown below. To have the data by month it was necessary to group the rows label into the time of months only. 
 
-![]()
+![](Resources/PivotTable_Outcomes_by_Launched_Date_Screenshot.png)
 
 
 Afterwards a line chart was created to visualize the relationship between outcomes and launched month. The result is shown as follows: 
